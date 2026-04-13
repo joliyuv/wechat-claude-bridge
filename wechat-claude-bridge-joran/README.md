@@ -2,7 +2,7 @@
 
 > **by [JORAN](https://joran.online)** · 免费开源
 
-> 在微信里直接调戏 Claude Code，不用开电脑，不用打开终端
+> 在微信里直接使用 Claude Code，不用开电脑，不用打开终端
 
 **原理超简单：** 微信 ClawBot 收到你的消息 → 转发给本地 Claude Code → 把回复发回微信
 
@@ -23,7 +23,7 @@
 
 - Node.js（用来跑 Claude Code）
 - Python 3.8+
-- 一个 Claude API Key（去 [ Anthropic 官网](https://console.anthropic.com/) 申请）
+- 一个 Claude API Key（去 [ Anthropic 官网](https://console.anthropic.com/) 或第三方网站申请）
 - 微信里添加 **ClawBot** 机器人（搜这个名）
 
 ### 2. 安装 Claude Code
